@@ -1,3 +1,5 @@
+Live View of Project: https://charles420b.github.io/odin-recipes/
+
 This project will cover the basics of making a website using HTML.
 During this the coder will have demonstrated that he has, albeit elementary, the knowledge to create one himself.
 
